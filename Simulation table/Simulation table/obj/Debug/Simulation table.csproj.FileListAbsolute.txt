@@ -1,0 +1,13 @@
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\bin\Debug\Simulation table.exe.config
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\bin\Debug\Simulation table.exe
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\bin\Debug\Simulation table.pdb
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation table.csproj.AssemblyReference.cache
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation_table.Form1.resources
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation_table.Properties.Resources.resources
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation table.csproj.GenerateResource.cache
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation table.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation table.exe
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation table.pdb
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation_table.Form2.resources
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation_table.Form3.resources
+C:\Users\Ahmed Mohamed Salah\source\repos\Simulation table\Simulation table\obj\Debug\Simulation table.csproj.ResolveComReference.cache
